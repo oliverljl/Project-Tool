@@ -1,0 +1,23 @@
+.analog_whole{
+	background-image: url("../images/1.jpg");
+	position: relative;
+}
+#face{
+	margin-left: 20%;
+	position: relative;
+}
+#se_hand{
+	position: absolute;
+	margin-top: -51%;
+	margin-left: 49%;
+	  }
+#min_hand{
+	position: absolute;
+	margin-top: -51%;
+	margin-left: 49%;
+}
+#hour_hand{
+	position: absolute;
+	margin-top: -51%;
+	margin-left: 49%;
+}
